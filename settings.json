@@ -24,7 +24,7 @@
   "discordClientID": "",
   "pageAccessToken": "",
   "pageVerifyToken": "",
-  "noFB": false,
+  "noFB": true,
   "credentials": {
     "email": "",
     "password": "",
